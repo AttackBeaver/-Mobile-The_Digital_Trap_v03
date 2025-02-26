@@ -1,0 +1,4 @@
+repository "The_Digital_Trap_v03@astarikov820@cloud"
+  path "/"
+    br "/main"
+    co "/main"

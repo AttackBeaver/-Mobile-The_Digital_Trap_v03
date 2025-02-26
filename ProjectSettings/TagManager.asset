@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SfxAudioSource
+  - Interactable
+  - Hero
+  - Creatures
+  - MainUICanvas
+  - SimpleDialog
+  - PersonalDialog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Level
+  - Interact
+  - Creatures
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1209854747
+    locked: 0
+  - name: Underground
+    uniqueID: 2876607289
+    locked: 0
+  - name: Tilemap_Level
+    uniqueID: 622157653
+    locked: 0
+  - name: Trees_Grass
+    uniqueID: 1303283027
+    locked: 0
+  - name: Interact
+    uniqueID: 2384429155
+    locked: 0
+  - name: Creatures
+    uniqueID: 289815007
+    locked: 0

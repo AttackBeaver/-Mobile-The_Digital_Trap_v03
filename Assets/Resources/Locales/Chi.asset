@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ce08c5fefd86e4b84d37b609e7b56b, type: 3}
+  m_Name: Chi
+  m_EditorClassIdentifier: 
+  _localeItems:
+  - Key: menu_continue
+    Value: "\u7EE7\u7EED\r"
+  - Key: menu_newgame
+    Value: "\u65B0\u6E38\u620F\r"
+  - Key: menu_settings
+    Value: "\u8BBE\u7F6E\r"
+  - Key: menu_exit
+    Value: "\u9000\u51FA\r"
+  - Key: menu_music
+    Value: "\u97F3\u4E50\uFF1A\r"
+  - Key: menu_sfx
+    Value: "\u97F3\u6548\uFF1A\r"
+  - Key: menu_language
+    Value: "\u8BED\u8A00\uFF1A\r"
+  - Key: menu_pause
+    Value: "\u6682\u505C\r"
+  - Key: menu_save
+    Value: "\u4FDD\u5B58\r"
+  - Key: menu_loading
+    Value: "\u52A0\u8F7D\u4E2D...\r"
+  - Key: menu_cost
+    Value: "\u4EF7\u683C\uFF1A\r"
+  - Key: menu_unlock
+    Value: "\u89E3\u9501\r"
+  - Key: menu_save_message
+    Value: "\u6E38\u620F\u5DF2\u4FDD\u5B58\r"
+  - Key: dialog_continue
+    Value: "\u4E0B\u4E00\u6B65...\r"
+  - Key: dialog_demon_1
+    Value: "\u4F60\u7684\u76EE\u6807\u5728\u8FD9\u91CC...\u8D70\u5411\u6211\uFF01\uFF01\uFF01\r"
+  - Key: dialog_demon_2_1
+    Value: "\u4F60\u6765\u4E86...\r"
+  - Key: dialog_demon_2_2
+    Value: "\u6211\u542C\u5230\u4F60\u4E86\r"
+  - Key: dialog_demon_2_3
+    Value: "\u8D70\u5411\u6211\uFF01\uFF01\uFF01\r"
+  - Key: dialog_end_1
+    Value: "\u54CE\u5440\uFF0C\u770B\u8D77\u6765\u4F60\u8FD8\u6CA1\u5B8C\u6210\u8FD9\u4E2A\u7EA7\u522B...\r"
+  - Key: dialog_end_2
+    Value: "\u4F60\u4E0D\u60F3\u4FEE\u6B63\u4E00\u4E0B\u5417\uFF1F\r"
+  - Key: dialog_fisrt_girl_1
+    Value: "\u563F...\u563F\uFF0C\u4F60\uFF01\r"
+  - Key: dialog_fisrt_girl_2
+    Value: "\u6211\u770B\u5230\u4F60\u4E86\uFF01\u7AD9\u5728\u539F\u5730\uFF01\r"
+  - Key: dialog_fisrt_girl_3
+    Value: "\u4F60\u662F\u8C01\uFF0C\u600E\u4E48\u8FDB\u5165\u6211\u4EEC\u7684\u6E38\u620F\u7684\uFF1F\uFF01\r"
+  - Key: dialog_fisrt_girl_4
+    Value: "\u6211\u662F\u963F\u5361\u590F...\u7B49\u7B49...\u4F60\u600E\u4E48\u77E5\u9053\u4F60\u5728\u6E38\u620F\u4E2D\uFF1F\uFF01\r"
+  - Key: dialog_fisrt_girl_5
+    Value: "\u554A\uFF0C\u963F\u5361\u590F\uFF0C\u610F\u5473\u7740...\u6211\u4EEC\u7684\u7B28\u62D9\u5929\u624D\r"
+  - Key: dialog_fisrt_girl_6
+    Value: "\u55EF\uFF0C\u6211\u5F53\u7136\u77E5\u9053\u6211\u5728\u54EA\u513F\uFF0C\u4E0D\u50CF\u4F60\uFF0C\u6211\u5DF2\u7ECF\u4E3A\u4F60\u5199\u597D\u4E86\u667A\u80FD\uFF0C\u4E0E\u5176\u4ED6\u4E00\u5207\u4E0D\u540C...\r"
+  - Key: dialog_fisrt_girl_7
+    Value: "\u5230\u5904\u90FD\u662F\u4EE3\u7801\u788E\u7247...\u4E00\u534A\u7684\u4E16\u754C\u90FD\u65E0\u6CD5\u6B63\u5E38\u5DE5\u4F5C...\u6709\u4E9B\u7EB9\u7406\u751A\u81F3\u53EA\u662F\u7B80\u5355\u7684\u6D1E...\r"
+  - Key: dialog_fisrt_girl_8
+    Value: "\u4F60\u662F\u5426\u60F3\u77E5\u9053\u4F60\u5728\u54EA\u91CC\uFF1F\r"
+  - Key: dialog_fisrt_girl_9
+    Value: "\u62B1\u6B49...\u4E5F\u8BB8...\r"
+  - Key: dialog_fisrt_girl_10
+    Value: "\u65E2\u7136\u4F60\u5728\u8FD9\u91CC\uFF0C\u90A3\u4E48\u4F60\u80AF\u5B9A\u53EF\u4EE5\u4FEE\u6B63\u4E00\u5207\uFF0C\u5BF9\u5417\uFF1F\r"
+  - Key: dialog_fisrt_girl_11
+    Value: "\u662F\u7684...\u4F46\u662F\u600E\u4E48\u505A\uFF1F\r"
+  - Key: dialog_fisrt_girl_12
+    Value: "\u597D\u5427\uFF0C\u4F60\u5DF2\u7ECF\u77E5\u9053\u4EE3\u7801\u788E\u7247\u4E86\uFF0C\u6211\u53EF\u4EE5\u5E2E\u52A9\u4F60\u5B9E\u73B0\u5B83\uFF01\u4F60\u8FD8\u8BB0\u5F97\u4E0B\u4E00\u4E2A\u7EA7\u522B\u662F\u4EC0\u4E48\u5417\uFF1F\r"
+  - Key: dialog_fisrt_girl_13
+    Value: "\u55EF-\u55EF-\u55EF...\u5438\u8840\u9B3C\u57CE\u5821\uFF1F\r"
+  - Key: dialog_fisrt_girl_14
+    Value: "\u5BF9\uFF0C\u5BF9\uFF0C\u6240\u4EE5\u4E3A\u4E86\u8FDB\u5165\u90A3\u91CC\uFF0C\u4F60\u9700\u8981\u201C\u89E3\u9501\u201D\u53CC\u8DF3\u3002\r"
+  - Key: dialog_fisrt_girl_15
+    Value: "\u6765\u5427\uFF0C\u8BA9\u6211\u4EEC\u4F7F\u7528\u4F60\u7684\u201C\u4F1F\u5927\u201D\u5929\u8D4B\u3002\u4F60\u5728\u7B80\u5386\u91CC\u5199\u4E86\u5427\uFF1F\r"
+  - Key: dialog_fisrt_girl_16
+    Value: "\u4E3A\u4E86\u51E0\u884C\u4EE3\u7801\u800C\u8FD9\u4E48\u591A\u8BDD...\u6211\u8D70\u4E86\u3002\r"
+  - Key: dialog_fisrt_fragment_1
+    Value: "\u606D\u559C\uFF01\u4F60\u5728\u4F60\u7684\u9879\u76EE\u4E2D\u627E\u5230\u4E86\u672A\u5B9E\u73B0\u7684\u4EE3\u7801\uFF01\r"
+  - Key: dialog_fisrt_fragment_2
+    Value: "\u6536\u96C6\u8FD9\u6837\u7684\u4EE3\u7801\u7247\u6BB5\uFF0C\u4F60\u5728\u6E38\u620F\u6587\u4EF6\u4E2D\u5BF9\u5B83\u4EEC\u8FDB\u884C\u6CE8\u91CA\u3002\r"
+  - Key: dialog_fisrt_fragment_3
+    Value: "\u7136\u540E\uFF0C\u4EE5\u67D0\u79CD\u795E\u5947\u7684\u65B9\u5F0F\uFF0C\u4F60\u53EF\u4EE5\u4F7F\u7528\u5B83\u4EEC...\r"
+  - Key: dialog_fisrt_fragment_4
+    Value: "\u4F60\u662F\u7A0B\u5E8F\u5458\uFF01\r"
+  - Key: dialog_fisrt_laptop_1
+    Value: "\u7EB9\u7406\u90E8\u5206\u963B\u788D\u4E86\u4F60\u7684\u8DEF\u5F84\uFF0C\u8FD9\u4E9B\u7EB9\u7406\u4E0D\u5E94\u8BE5\u5728\u8FD9\u91CC...\r"
+  - Key: dialog_fisrt_laptop_2
+    Value: "\u770B\uFF0C\u4F60\u7684\u7B14\u8BB0\u672C\u4E5F\u5728\u8FD9\u91CC\uFF01\u8FD9\u591A\u65B9\u4FBF\uFF01\r"
+  - Key: dialog_fisrt_laptop_3
+    Value: "\u4F7F\u7528\u7B14\u8BB0\u672C\uFF0C\u6309\u201CE\u201D\u952E\uFF0C\u5C06\u7EB9\u7406\u4ECE\u9053\u8DEF\u4E0A\u79FB\u9664\uFF01\r"
+  - Key: dialog_start_1
+    Value: "\u6B22\u8FCE\uFF0C\u73A9\u5BB6\uFF01\r"
+  - Key: dialog_start_2
+    Value: "\u4F60\u53D1\u73B0\u81EA\u5DF1\u5728\u4E00\u4E2A\u6E38\u620F\u4E2D\uFF0C\u4F60\u81EA\u5DF1\u521B\u5EFA\u4E86\u5B83\uFF01\u6216\u8005\u8BF4\uFF0C\u5F00\u59CB\u4E86...\r"
+  - Key: dialog_start_3
+    Value: "\u73B0\u5728\uFF0C\u4F60\u662F\u963F\u5361\u590F\uFF0C\u5728\u81EA\u5DF1\u7684\u521B\u4F5C\u4E2D\u8FF7\u5931\u4E86\u65B9\u5411\uFF01\r"
+  - Key: dialog_start_4
+    Value: "\u4F60\u7684\u4EFB\u52A1\u662F\u627E\u5230\u8FD9\u4E2A\u50CF\u7D20\u4E16\u754C\u7684\u51FA\u53E3\u3002\r"
+  - Key: dialog_start_5
+    Value: "\u79FB\u52A8\uFF1A\u952E\u201CA\u201D\u548C\u201CD\u201D\r"
+  - Key: dialog_start_6
+    Value: "\u8DF3\u8DC3\uFF1A\u7A7A\u683C\r"
+  - Key: dialog_start_7
+    Value: "\u653B\u51FB\uFF1A\u9F20\u6807\u5DE6\u952E\r"
+  - Key: dialog_start_8
+    Value: "\u4F7F\u7528\uFF1A\u201CE\u201D\r"
+  - Key: dialog_start_9
+    Value: "\u6682\u505C\uFF1A\u201CEscape\u201D\r"
+  - Key: dialog_start_10
+    Value: "\u5C0F\u5FC3\uFF1A\u4F60\u7684\u884C\u52A8\u53EF\u80FD\u6539\u53D8\u4F60\u5468\u56F4\u7684\u4E16\u754C\uFF01\r"
+  - Key: dialog_start_11
+    Value: "\u795D\u4F60\u5728\u5B8C\u6210\u4F60\u7684\u9879\u76EE\u7684\u9053\u8DEF\u4E0A\u597D\u8FD0\uFF01\r"
+  - Key: dialog_second_girl_1
+    Value: "\u6765\u5427\uFF0C\u9009\u62E9\u53CC\u8DF3\uFF0C\u7136\u540E\u6211\u4EEC\u8C08\u8C08\r"
+  - Key: dialog_second_girl_2
+    Value: "\u597D\u4E86\uFF0C\u5B8C\u6210\u4E86\r"
+  - Key: dialog_second_girl_3
+    Value: "\u5E72\u5F97\u597D\uFF0C\u82F1\u96C4\u3002\u63A5\u4E0B\u6765\uFF0C\u4F60\u7684\u8DEF\u7EBF\u7ECF\u8FC7\u5438\u8840\u9B3C\u57CE\u5821\u3002\r"
+  - Key: dialog_second_girl_4
+    Value: "\u5728\u90A3\u91CC\u7684\u67D0\u4E2A\u5730\u65B9\uFF0C\u4F60\u53EF\u80FD\u4F1A\u627E\u5230\u4F60\u6B63\u5728\u5BFB\u627E\u7684\u4E1C\u897F...\r"
+  - Key: dialog_second_girl_5
+    Value: "\u5443\uFF0C\u4F60\u663E\u7136\u4E0D\u64C5\u957F\u5199\u5BF9\u8BDD\r"
+  - Key: dialog_second_girl_6
+    Value: "\u54E6\uFF0C\u8C22\u8C22...\u4F60\u53EB\u4EC0\u4E48\u540D\u5B57\uFF1F\r"
+  - Key: dialog_second_girl_7
+    Value: "\u8FD9\u4E2A\u95EE\u9898\u4F60\u5F97\u95EE\u81EA\u5DF1\uFF0C\u4F60\u90FD\u6CA1\u6709\u544A\u8BC9\u6211\u4F60\u7684\u540D\u5B57\uFF0C\u4F60\u968F\u4FBF\u53EB\u6211\u4EC0\u4E48\u90FD\u884C\r"
+  - Key: dialog_second_girl_8
+    Value: "\u597D\u5427\uFF0C\u64CE\u5929\u67F1\uFF09\r"
+  - Key: dialog_second_girl_9
+    Value: "\u7528\u624B\u51FB\u6253\u81EA\u5DF1\u7684\u8138\r"
+  - Key: dialog_dog_1_1
+    Value: "\u6C6A\uFF01\r"
+  - Key: dialog_dog_1_2
+    Value: "\u4ECE\u6076\u9B54\u90A3\u91CC\u62FF\u5230\u94A5\u5319\uFF01\u6C6A\uFF01\r"
+  - Key: dialog_dog_1_3
+    Value: "\u6076\u9B54\u5728\u5730\u7262\u91CC\uFF01\u6C6A\uFF01\r"
+  - Key: dialog_dog_1_4
+    Value: "\u5730\u7262\u7684\u5165\u53E3\u5C31\u5728\u8FD9\u91CC\uFF01\u6C6A\uFF01\r"
+  - Key: dialog_dog_1_5
+    Value: "\u55EF\uFF0C\u4F3C\u4E4E\u4E00\u5207\u90FD\u6E05\u695A\u4E86...\u6C6A\uFF1F\r"
+  - Key: door_dialog
+    Value: "\u9700\u8981\u94A5\u5319...\r"
+  - Key: dialog_boxy_1
+    Value: "\u4F60\u597D\uFF0C\u963F\u5C14\u5361\u6C99\uFF01\u6211\u4F1A\u5E2E\u52A9\u4F60\u5B8C\u6210\u8FD9\u4E2A\u5173\u5361\uFF01\uFF01\uFF01\r"
+  - Key: dialog_boxy_2
+    Value: "\u4F60\u597D\uFF0C\u4F60\u597D\u3002\u4F60\u662F\u8C01\uFF1F\r"
+  - Key: dialog_boxy_3
+    Value: "\u6211\u662F\u6CE2\u514B\u65AF\uFF01\u5B9E\u9645\u4E0A\u6211\u662F\u6E38\u620F\u5F15\u64CE\u7684\u63A7\u5236\u5668\uFF0C\u5B9E\u9645\u4E0A\u6211\u662F\u4E00\u53F0\u6709\u817F\u7684\u663E\u793A\u5668\uFF01\r"
+  - Key: dialog_boxy_4
+    Value: "\u597D\u7684\uFF0C\u660E\u767D\u4E86\u3002\u90A3\u4E48\u6211\u5982\u4F55\u201C\u4FEE\u590D\u201D\u8FD9\u4E2A\u5173\u5361\uFF1F\r"
+  - Key: dialog_boxy_5
+    Value: "\u54E6\uFF0C\u5F88\u7B80\u5355\uFF0C\u4F7F\u7528\u4F60\u7684\u4EE3\u7801\u7247\u6BB5\uFF01\u4F46\u4F60\u4F1A\u9700\u8981\u76F8\u5F53\u591A\u7684\uFF01\r"
+  - Key: dialog_boxy_option_1
+    Value: "\u4F7F\u7528100\u4E2A\u7247\u6BB5\u6765\u201C\u4FEE\u590D\u201D\u7EA7\u522B\u5417\uFF1F\r"
+  - Key: dialog_boxy_option_2
+    Value: "\u662F\u7684\r"
+  - Key: dialog_boxy_option_3
+    Value: "\u4E0D\r"
+  - Key: dialog_boxy_option_4
+    Value: "\u788E\u7247\u4E0D\u8DB3\r"
+  - Key: dialog_boxy_end_1
+    Value: "\u5E72\u5F97\u597D\uFF0C\u4F60\u6062\u590D\u4E86\u7EA7\u522B\uFF01\uFF01\uFF01\r"
+  - Key: dialog_boxy_end_2
+    Value: "\u662F\u7684\uFF0C\u6211\u592A\u68D2\u4E86...\r"
+  - Key: dialog_boxy_end_3
+    Value: "\u73B0\u5728\u7EE7\u7EED\u8DD1\uFF0C\u4F60\u8D70\u5728\u6B63\u786E\u7684\u9053\u8DEF\u4E0A\uFF01\r"
+  - Key: dialog_boxy_end_4
+    Value: "\u4F60\u771F\u662F\u592A\u5F00\u5FC3\u4E86... \u597D\u5427\uFF0C\u518D\u89C1\u3002\r"
+  - Key: marker_quest_0
+    Value: "\u6B66\u58EB\u6CA1\u6709\u76EE\u6807\uFF0C\u53EA\u6709\u9053\u8DEF...\r"
+  - Key: marker_quest_1
+    Value: "\u9700\u8981\u660E\u767D\u6B63\u5728\u53D1\u751F\u4EC0\u4E48\r"
+  - Key: marker_quest_2
+    Value: "\u548C\u964C\u751F\u4EBA\u4EA4\u8C08\r"
+  - Key: marker_quest_3
+    Value: "\u627E\u5230\u8FDB\u5165\u57CE\u5821\u7684\u5165\u53E3\r"
+  - Key: marker_quest_4
+    Value: "\u627E\u5230\u95E8\u7684\u94A5\u5319\r"
+  - Key: marker_quest_5
+    Value: "\u73B0\u5728\u9700\u8981\u6253\u5F00\u95E8\r"
+  - Key: marker_quest_6
+    Value: "\u9700\u8981\u7EE7\u7EED\u524D\u8FDB\r"
+  - Key: marker_quest_7
+    Value: "\u591A\u4E48\u6709\u8DA3\u7684\u5E73\u9762\u8BBE\u8BA1...\r"
+  - Key: marker_quest_8
+    Value: "\u73B0\u5728\u8FD9\u5DF2\u7ECF\u662F\u4E2A\u8FF7\u5BAB\u4E86\r"
+  - Key: marker_quest_9
+    Value: "\u6253\u5F00\u95E8...\u95E8...\r"
+  - Key: marker_quest_10
+    Value: "\u6C6A\u6C6A\u6C6A\uFF01\uFF01\uFF01\r"
+  - Key: marker_quest_11
+    Value: "\u8FDB\u5165\u5730\u7262\r"
+  - Key: marker_quest_12
+    Value: "\u90A3\u91CC\u6709\u4EBA\u53D1\u51FA\u53EF\u6015\u7684\u5486\u54EE...\r"
+  - Key: marker_quest_13
+    Value: "\u6218\u80DC\u6076\u9B54\uFF01\uFF01\uFF01\r"
+  - Key: perk_info_1
+    Value: "\u73B0\u5728\u4F60\u53EF\u4EE5\u53CC\u91CD\u8DF3\u8DC3\uFF01\u5728\u8DF3\u8DC3\u65F6\u6309\u7A7A\u683C\u952E\uFF0C\u53EF\u4EE5\u8DF3\u5F97\u66F4\u9AD8\uFF01\r"
+  - Key: perk_info_2
+    Value: "\u9A7E\u9A6D\u706B\u7130\u7684\u529B\u91CF\uFF01\u6309\u9F20\u6807\u53F3\u952E\u53D1\u5C04\u706B\u7403\u7ED9\u654C\u4EBA\uFF01\u9020\u6210\u53CC\u500D\u4F24\u5BB3\uFF0C\u4F46\u6BCF5\u79D2\u4E00\u6B21\u3002\u4E0D\u8FC7\u4E0D\u6D88\u8017\u6CD5\u529B\uFF01\r"
+  - Key: titles
+    Value: "\u5F00\u53D1\u8005\uFF1A\u4E9A\u5386\u5C71\u5927\xB7\u65AF\u5854\u91CC\u79D1\u592B
+      \u4F7F\u7528\u7684\u8D44\u6E90\uFF1Aitch.io\u3001craftpix.net\u3001assetstore.unity.com\u3001opengameart.org
+      \u8C22\u8C22\u4F60\u7684\u6E38\u73A9\uFF01\u6709\u5408\u4F5C\u8BE2\u95EE\u8BF7\u8054\u7CFB
+      tg\uFF1A@attack_beaver"
+  - Key: advice
+    Value: "\u63D0\u793A\uFF1A\u4E0D\u8981\u5FD8\u8BB0\u5728\u6682\u505C\u83DC\u5355\u4E2D\u4FDD\u5B58\u6E38\u620F\uFF01"

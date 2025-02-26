@@ -1,0 +1,2406 @@
+fileFormatVersion: 2
+guid: d89fa94b7367b434ca7cec3cdf06d656
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc607a2c17d8445bb72e8c96179e20
+      internalID: 1352151161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d1f70f2ef29f44bc842a1ffc73d11
+      internalID: 743142425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adb84043707f046b16ae41ec694a45
+      internalID: 808163886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab99bf3c20c7b4cb63e404af525c73
+      internalID: 1713131723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1bda9c62075648b3cf238414fa5f5
+      internalID: -1361952359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68c22d729d10a4397e1cf57241f0a6
+      internalID: -156694521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd4d16e94b2eb4abe2dfa9dc094099
+      internalID: 1084387801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef0d7f354328d94482bfbaeb478e786
+      internalID: 1224494039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759574f655a474b4fad459de640b90e8
+      internalID: -1249999949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698258e638893046ae8c73bdfe93cb2
+      internalID: -591516183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e5ae59eedb874888b16fdb34655ba
+      internalID: -1277258852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24abbfe327c85a479845199400b9a83
+      internalID: 373836202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103f221ccd608144a0c4a93438843aa
+      internalID: -1111043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b75f4260ce8ba489a08efa5d5b7bc5
+      internalID: -97077901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118c40184ec2004db84344d3382fb27
+      internalID: -850853203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf747f6d7001844b652b47420182ad
+      internalID: -1421459928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4621e050cbeacd449d7254a7737fe65
+      internalID: 315357728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288de2fa43d7be4ea5875d12f68db64
+      internalID: -1540010374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c193709acd82e47987fa179b1b43d8
+      internalID: 971344934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efd79125d60f441a84193c6bb1df34
+      internalID: 1842944977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebe47f82724794082d83094e712f31
+      internalID: 193680570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a9496a7c4e3f47b1c2e60ee394c21
+      internalID: 1101455449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62edec716e6bfcd4e8a63ab4d41a74bd
+      internalID: -408476189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc2eeae96d8ff488a97647f32d1a11
+      internalID: 2114670617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78294e949c48f847b90be310963afd2
+      internalID: -1185433432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84662822339ae194483450e90b666d86
+      internalID: -1516840913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111763dedda7cdf48af642903f56dae0
+      internalID: -700711941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59102997d7f0d8a49bfe3099aabdd2ea
+      internalID: 1293253931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd39f5f6f33f8b34b989f4cb084be961
+      internalID: 2070058623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27291f338a5c93c4caeb8fdc946f18bd
+      internalID: -997867753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a319927e56244aa8f5cec53c9e2a3
+      internalID: 459054965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504a5769a6bea3a45b080a4a51e504a8
+      internalID: -1219047993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26535aaba538a4da143badcce7726f
+      internalID: 1230985691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a683ffe3f6d6cc4ebf51a888c05a95f
+      internalID: 1738237904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a6b35b1ffa51429a72fac0e134fa9
+      internalID: -1563678604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd4f73eec4f1e40a70064b6f522d1d
+      internalID: 1756035891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d210f96410124643a6945b9e27517ee
+      internalID: 1833305530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2448232e1aff35748992260e41e97d07
+      internalID: -699966481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbefb7cbd5c61f4894338285e5ad74f
+      internalID: -914058928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03621e9a3f645142b29e402b9875150
+      internalID: 81493296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c394bc26ab1651409eb077898cce4dd
+      internalID: -1006596187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab558fb4c7118c14c913676c896fe80d
+      internalID: 1085293498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074eb3d78d0bde1489a271052dfa97e7
+      internalID: -300971710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54617d453951d174a892856da71cd703
+      internalID: 1103386394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6364181badbe42a5fa2897d7ac952
+      internalID: 1629777680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de59e648d255d24d96e81a684a8594e
+      internalID: 1969883001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fd6e8a21ff4746a24a5ce4c9bc96d
+      internalID: 285309408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5908492103a0f5459128c3da9ca371e
+      internalID: 297919469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1325c68e055e4e40afb887c426a9d1b
+      internalID: -1806839491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9fb033eb0813646a94d18a772d1200
+      internalID: 296933264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb2c92b1fa6e14eae3f1318f51f5c1
+      internalID: -2031329165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3f375802f00c458c41aeb3f197f23
+      internalID: -1089260553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc09cd9fc19dd46bdb42037bda3ea6
+      internalID: 82518235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f91c2fc1ae8a4db3732708a0f64d1
+      internalID: -2033047690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6035072fde6cd49a51041bb7a4dfda
+      internalID: 1203497890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623451339c171f44eb463052be185d3d
+      internalID: 665827434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55782f8ba16c8468058cf9818f627a
+      internalID: -707882405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0475389dc6a9eab4b8b057517566e355
+      internalID: 456107164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418572185d5d4b04cae6d2a847628c06
+      internalID: 1430283273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f9c8d7ac08624f845733fa4dc11b3
+      internalID: 1521651432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881949d2948f1a45b0e830cb16fb78a
+      internalID: -247461799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bbe9f6d0d1baa4ab30afc9e9ca3cbb
+      internalID: -1387623683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a4cab25d70d449af7fcbdba93579f
+      internalID: 1723477504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50252e6e8e46c404283cfb741d37f871
+      internalID: -154785414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da6ab091d87d64a9b00cd1e46e1235
+      internalID: 1967184758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ead936325df884fbad18cc7c868b62
+      internalID: 61784277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787db51a562f66f4297f722c90253c98
+      internalID: -825616851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a99e2034601f41a516843af18f029
+      internalID: -2088796090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b63380c7fca4443aa104a23240aeef
+      internalID: -1344179119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6708a4960439bb8458e7eebf331b2edb
+      internalID: -205624716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215ada4c9e1e054fa495dc86a8001fe
+      internalID: 689988477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0c5a485bdea14a8e72870553bc7cf
+      internalID: -1581091936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281e396454f07248bde6bfb09396beb
+      internalID: -118812729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122ce898429a5a4fbee03aec6c608aa
+      internalID: 183372333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6472bcbb1e3495479a2c5a2cf64c718
+      internalID: 1313398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dff9665b377e546bfc95d2309f3a8e
+      internalID: -407797312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36a82d0db5f394f95cfd108334e3d0
+      internalID: -1953154274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22ca1fea9f2ae42b7044a7cf1359e5
+      internalID: -1421601519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e90013cf72abf4c9e9ad7802e77190
+      internalID: 1068275263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0dcf58f3c98f3449c7078ccc0b8160
+      internalID: -1248696020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd7b907c0aa1534c809038a00113b52
+      internalID: -1344919652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977fbca38d9a9da40b85d566f33b3d13
+      internalID: -1091199510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0b1e6c44a9c34c8300251cbd38163
+      internalID: 203432958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde1eadec28fa2468198f686b70fae7
+      internalID: -1595373987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454fe78c8286934d9d83faffccf666c
+      internalID: 320069079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e3a62bf587c646bcb79b1f626dbe5
+      internalID: -1562126642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7598eeec2f685c43898cfdd71dabf1c
+      internalID: 1786224016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8652ad3fa8855438a5892880686259
+      internalID: -1872896576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb45912a9029542a11f228d2dc4343
+      internalID: 2050349384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64ddbd65ffda646a94e81cde52bf20
+      internalID: -135428905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2922ad4e1e8464688e61bbeb00cf9b
+      internalID: -418186867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2d35f1c25e3542b13e91c878bec47
+      internalID: 482493760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b206cd64db2142a658bcf24f72d0d
+      internalID: -216803950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8792695fa7744899f12710942d5ea
+      internalID: 547120552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6d3e8a0c85a94186a2a3e540a1994
+      internalID: 1982656300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a9eb9d5854dc48bd7ee23da1b6e71
+      internalID: -279153265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31897781412524f9fb7376e550f836
+      internalID: -1074888148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26f00a24dbcda4eb4d6c9aecf5e7f0
+      internalID: 933959185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a534ecf34481d4baa16ba45b44c18c
+      internalID: 583627209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e54c19f052b64c87956ade45281ac
+      internalID: -154363975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761294fc7b5bc784e88949e7457fd9da
+      internalID: -1100346946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1123254383ea44abc178fb048fea53
+      internalID: -1908032411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SR_Stone Ruins_TileSet 16x16_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16.8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b891b88812abc4eba5194e1bab1a01
+      internalID: -419910892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SR_Stone Ruins_TileSet 16x16_0: 1352151161
+      SR_Stone Ruins_TileSet 16x16_1: 743142425
+      SR_Stone Ruins_TileSet 16x16_10: -1277258852
+      SR_Stone Ruins_TileSet 16x16_100: -1100346946
+      SR_Stone Ruins_TileSet 16x16_101: -1908032411
+      SR_Stone Ruins_TileSet 16x16_102: -419910892
+      SR_Stone Ruins_TileSet 16x16_11: 373836202
+      SR_Stone Ruins_TileSet 16x16_12: -1111043541
+      SR_Stone Ruins_TileSet 16x16_13: -97077901
+      SR_Stone Ruins_TileSet 16x16_14: -850853203
+      SR_Stone Ruins_TileSet 16x16_15: -1421459928
+      SR_Stone Ruins_TileSet 16x16_16: 315357728
+      SR_Stone Ruins_TileSet 16x16_17: -1540010374
+      SR_Stone Ruins_TileSet 16x16_18: 971344934
+      SR_Stone Ruins_TileSet 16x16_19: 1842944977
+      SR_Stone Ruins_TileSet 16x16_2: 808163886
+      SR_Stone Ruins_TileSet 16x16_20: 193680570
+      SR_Stone Ruins_TileSet 16x16_21: 1101455449
+      SR_Stone Ruins_TileSet 16x16_22: -408476189
+      SR_Stone Ruins_TileSet 16x16_23: 2114670617
+      SR_Stone Ruins_TileSet 16x16_24: -1185433432
+      SR_Stone Ruins_TileSet 16x16_25: -1516840913
+      SR_Stone Ruins_TileSet 16x16_26: -700711941
+      SR_Stone Ruins_TileSet 16x16_27: 1293253931
+      SR_Stone Ruins_TileSet 16x16_28: 2070058623
+      SR_Stone Ruins_TileSet 16x16_29: -997867753
+      SR_Stone Ruins_TileSet 16x16_3: 1713131723
+      SR_Stone Ruins_TileSet 16x16_30: 459054965
+      SR_Stone Ruins_TileSet 16x16_31: -1219047993
+      SR_Stone Ruins_TileSet 16x16_32: 1230985691
+      SR_Stone Ruins_TileSet 16x16_33: 1738237904
+      SR_Stone Ruins_TileSet 16x16_34: -1563678604
+      SR_Stone Ruins_TileSet 16x16_35: 1756035891
+      SR_Stone Ruins_TileSet 16x16_36: 1833305530
+      SR_Stone Ruins_TileSet 16x16_37: -699966481
+      SR_Stone Ruins_TileSet 16x16_38: -914058928
+      SR_Stone Ruins_TileSet 16x16_39: 81493296
+      SR_Stone Ruins_TileSet 16x16_4: -1361952359
+      SR_Stone Ruins_TileSet 16x16_40: -1006596187
+      SR_Stone Ruins_TileSet 16x16_41: 1085293498
+      SR_Stone Ruins_TileSet 16x16_42: -300971710
+      SR_Stone Ruins_TileSet 16x16_43: 1103386394
+      SR_Stone Ruins_TileSet 16x16_44: 1629777680
+      SR_Stone Ruins_TileSet 16x16_45: 1969883001
+      SR_Stone Ruins_TileSet 16x16_46: 285309408
+      SR_Stone Ruins_TileSet 16x16_47: 297919469
+      SR_Stone Ruins_TileSet 16x16_48: -1806839491
+      SR_Stone Ruins_TileSet 16x16_49: 296933264
+      SR_Stone Ruins_TileSet 16x16_5: -156694521
+      SR_Stone Ruins_TileSet 16x16_50: -2031329165
+      SR_Stone Ruins_TileSet 16x16_51: -1089260553
+      SR_Stone Ruins_TileSet 16x16_52: 82518235
+      SR_Stone Ruins_TileSet 16x16_53: -2033047690
+      SR_Stone Ruins_TileSet 16x16_54: 1203497890
+      SR_Stone Ruins_TileSet 16x16_55: 665827434
+      SR_Stone Ruins_TileSet 16x16_56: -707882405
+      SR_Stone Ruins_TileSet 16x16_57: 456107164
+      SR_Stone Ruins_TileSet 16x16_58: 1430283273
+      SR_Stone Ruins_TileSet 16x16_59: 1521651432
+      SR_Stone Ruins_TileSet 16x16_6: 1084387801
+      SR_Stone Ruins_TileSet 16x16_60: -247461799
+      SR_Stone Ruins_TileSet 16x16_61: -1387623683
+      SR_Stone Ruins_TileSet 16x16_62: 1723477504
+      SR_Stone Ruins_TileSet 16x16_63: -154785414
+      SR_Stone Ruins_TileSet 16x16_64: 1967184758
+      SR_Stone Ruins_TileSet 16x16_65: 61784277
+      SR_Stone Ruins_TileSet 16x16_66: -825616851
+      SR_Stone Ruins_TileSet 16x16_67: -2088796090
+      SR_Stone Ruins_TileSet 16x16_68: -1344179119
+      SR_Stone Ruins_TileSet 16x16_69: -205624716
+      SR_Stone Ruins_TileSet 16x16_7: 1224494039
+      SR_Stone Ruins_TileSet 16x16_70: 689988477
+      SR_Stone Ruins_TileSet 16x16_71: -1581091936
+      SR_Stone Ruins_TileSet 16x16_72: -118812729
+      SR_Stone Ruins_TileSet 16x16_73: 183372333
+      SR_Stone Ruins_TileSet 16x16_74: 1313398059
+      SR_Stone Ruins_TileSet 16x16_75: -407797312
+      SR_Stone Ruins_TileSet 16x16_76: -1953154274
+      SR_Stone Ruins_TileSet 16x16_77: -1421601519
+      SR_Stone Ruins_TileSet 16x16_78: 1068275263
+      SR_Stone Ruins_TileSet 16x16_79: -1248696020
+      SR_Stone Ruins_TileSet 16x16_8: -1249999949
+      SR_Stone Ruins_TileSet 16x16_80: -1344919652
+      SR_Stone Ruins_TileSet 16x16_81: -1091199510
+      SR_Stone Ruins_TileSet 16x16_82: 203432958
+      SR_Stone Ruins_TileSet 16x16_83: -1595373987
+      SR_Stone Ruins_TileSet 16x16_84: 320069079
+      SR_Stone Ruins_TileSet 16x16_85: -1562126642
+      SR_Stone Ruins_TileSet 16x16_86: 1786224016
+      SR_Stone Ruins_TileSet 16x16_87: -1872896576
+      SR_Stone Ruins_TileSet 16x16_88: 2050349384
+      SR_Stone Ruins_TileSet 16x16_89: -135428905
+      SR_Stone Ruins_TileSet 16x16_9: -591516183
+      SR_Stone Ruins_TileSet 16x16_90: -418186867
+      SR_Stone Ruins_TileSet 16x16_91: 482493760
+      SR_Stone Ruins_TileSet 16x16_92: -216803950
+      SR_Stone Ruins_TileSet 16x16_93: 547120552
+      SR_Stone Ruins_TileSet 16x16_94: 1982656300
+      SR_Stone Ruins_TileSet 16x16_95: -279153265
+      SR_Stone Ruins_TileSet 16x16_96: -1074888148
+      SR_Stone Ruins_TileSet 16x16_97: 933959185
+      SR_Stone Ruins_TileSet 16x16_98: 583627209
+      SR_Stone Ruins_TileSet 16x16_99: -154363975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42204cccb459b0f40a849eb88b252221, type: 3}
+  m_Name: InventoryItems
+  m_EditorClassIdentifier: 
+  _items:
+  - _id: Fragment
+    _icon: {fileID: -94901016, guid: 937a11fb9c85a3645bd1fe537e27e0ea, type: 3}
+    _tags: 0000000001000000
+  - _id: Key
+    _icon: {fileID: 21300000, guid: 67e474d962d35b4478e1e919b995ccd3, type: 3}
+    _tags: 01000000
+  - _id: Magic_Key
+    _icon: {fileID: 21300000, guid: f150c13b2dfbec24b8ebb008594a6ad8, type: 3}
+    _tags: 01000000

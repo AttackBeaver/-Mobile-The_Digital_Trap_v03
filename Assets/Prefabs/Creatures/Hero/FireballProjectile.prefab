@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &841445051977892320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8158336760338145714}
+  - component: {fileID: 7887036858753435251}
+  - component: {fileID: 7494501282066843510}
+  - component: {fileID: 5050271974649087357}
+  - component: {fileID: 1944193866237245191}
+  - component: {fileID: 5728086972001364258}
+  - component: {fileID: 7939787631400808896}
+  - component: {fileID: 76208797011184871}
+  - component: {fileID: 7631236467113914807}
+  - component: {fileID: 2271715839799429957}
+  m_Layer: 0
+  m_Name: FireballProjectile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8158336760338145714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.399, y: -1.989, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &7887036858753435251
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 622157653
+  m_SortingLayer: 3
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 00119355636f50543a3fb1730a3b518a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.625, y: 0.625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &7494501282066843510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cfc3f00f556ef345aafaa1441df0998, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _frameRate: 10
+  _onComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  _clips:
+  - _name: idle
+    _sprites:
+    - {fileID: 21300000, guid: 00119355636f50543a3fb1730a3b518a, type: 3}
+    - {fileID: 21300000, guid: 5e0dd033131a5ea4390dddbfd0be9888, type: 3}
+    - {fileID: 21300000, guid: 63d81796a48a3f34891a0c75f0695401, type: 3}
+    - {fileID: 21300000, guid: 95954bd658d72604299578fa19f0dedd, type: 3}
+    - {fileID: 21300000, guid: d709a5d2f5f2994408ac89680444d868, type: 3}
+    - {fileID: 21300000, guid: eeb6a37bc676bf8449badfdeba0e68b9, type: 3}
+    - {fileID: 21300000, guid: f3622d2a19942574c96fca6b11758fa9, type: 3}
+    - {fileID: 21300000, guid: a57e97d191265a34793a48d805ec9dd2, type: 3}
+    - {fileID: 21300000, guid: 738322348b037c240ad3f84cb30f9e24, type: 3}
+    - {fileID: 21300000, guid: 05185327b8860fa4c8147d7ce6c96cc2, type: 3}
+    - {fileID: 21300000, guid: fd69f0794755b224ab92ece929199d38, type: 3}
+    - {fileID: 21300000, guid: 8edcd7dc7174c534d9ce87a8d4f322af, type: 3}
+    - {fileID: 21300000, guid: c6bcbfb40479c394fbad2d7ae528506e, type: 3}
+    - {fileID: 21300000, guid: 3bf7e01d5dced2f4a8fc7341b4c23cb7, type: 3}
+    - {fileID: 21300000, guid: 199f8643e0bf0f246bf269bdd426723e, type: 3}
+    - {fileID: 21300000, guid: 86e09cf9bcf44c8418fb784606e1ccde, type: 3}
+    - {fileID: 21300000, guid: 03b4076244e347b44bc4a5df36e86928, type: 3}
+    - {fileID: 21300000, guid: b88d3c130a23f3a4cabd608c535805e0, type: 3}
+    - {fileID: 21300000, guid: 8261b8de8f87b4f4eba9b833c00bf707, type: 3}
+    - {fileID: 21300000, guid: 1f5ef8bbece1bad4ea690d0b9f8dff5f, type: 3}
+    - {fileID: 21300000, guid: 507c01b714486324b89713d6f76e2c55, type: 3}
+    - {fileID: 21300000, guid: 19e42085b4479ee49b568b03ccd46c9e, type: 3}
+    - {fileID: 21300000, guid: 94e0452f8508ce0498fffeba48f22c5e, type: 3}
+    - {fileID: 21300000, guid: f9316d254c647614f9f4d125665fc8ee, type: 3}
+    - {fileID: 21300000, guid: 491fa4234f0f7b24ea67a846dba8d214, type: 3}
+    - {fileID: 21300000, guid: 60239addb4a0a3c448192e31f2dc788c, type: 3}
+    - {fileID: 21300000, guid: 64a2ed0a90b9eeb40a24666e982a7e76, type: 3}
+    - {fileID: 21300000, guid: ad83e5e8dd333554e8d7db10c27c3528, type: 3}
+    - {fileID: 21300000, guid: ab54509df5c2c1d48ac69356a7ce5858, type: 3}
+    - {fileID: 21300000, guid: c83b00b24f36521409915f560f33d980, type: 3}
+    - {fileID: 21300000, guid: 7eadb313e7c86af43858e36635a73d8e, type: 3}
+    - {fileID: 21300000, guid: 9e163070449421343a89cb7dbeaae336, type: 3}
+    - {fileID: 21300000, guid: d9ca71f6330dba44b8388f90099e9cfe, type: 3}
+    - {fileID: 21300000, guid: 20a4613ca0d0ac44ca402cf1dceb0b95, type: 3}
+    - {fileID: 21300000, guid: d55400ba3099e6d42af860c7c44a6d2f, type: 3}
+    - {fileID: 21300000, guid: 1b47d989195c73e49a840ee463d175ce, type: 3}
+    - {fileID: 21300000, guid: b1bcc4de67864f24f907cecc4717f149, type: 3}
+    - {fileID: 21300000, guid: aae79099839cbbc4586dada81218cc7c, type: 3}
+    - {fileID: 21300000, guid: 3259252769ead184f9514becfd41eaad, type: 3}
+    - {fileID: 21300000, guid: c5e28a3c6d220ef4e9ecb22221f16a91, type: 3}
+    - {fileID: 21300000, guid: b9ae580d8c2d2d64c9615d1b16577368, type: 3}
+    - {fileID: 21300000, guid: 2806f6efc58df1742b1a105cddf901e1, type: 3}
+    - {fileID: 21300000, guid: 4a1bab5a843f81c49acc7540af5194f1, type: 3}
+    - {fileID: 21300000, guid: 8a24974c2f3d24b4795a6e695c06ebc6, type: 3}
+    - {fileID: 21300000, guid: 0682b6a5c65e339459520db74201b11b, type: 3}
+    - {fileID: 21300000, guid: 6fcf61500c2f54a449c862cad6cead7e, type: 3}
+    - {fileID: 21300000, guid: 7426d353fa7ac7c4f9ecb00872777a80, type: 3}
+    - {fileID: 21300000, guid: b8ed04721218452419b169e26ae5d152, type: 3}
+    - {fileID: 21300000, guid: 1e46d37ec6c254547b15d9c1c3b744b2, type: 3}
+    - {fileID: 21300000, guid: 85f33251a389d0d4cbeda9941b269040, type: 3}
+    - {fileID: 21300000, guid: 9e666cbcabcc0da45ac15e5f0dafe907, type: 3}
+    - {fileID: 21300000, guid: 40efa3301adf32943a6e5458c1732503, type: 3}
+    - {fileID: 21300000, guid: 083f323cdf36266458ed8ff6c7d531ae, type: 3}
+    - {fileID: 21300000, guid: 20997c1278619cd47ad1ef4acccdc345, type: 3}
+    - {fileID: 21300000, guid: 20c883fe93662464cb429d21b6cf1e63, type: 3}
+    - {fileID: 21300000, guid: 439cc9f8dc1d83c48a9fe86f096adbb6, type: 3}
+    - {fileID: 21300000, guid: 735b51ea75a8f6b44a20ed9d79d0e828, type: 3}
+    - {fileID: 21300000, guid: 86b8c66914efa56499bc4ec04c3883cb, type: 3}
+    - {fileID: 21300000, guid: f04f546ee8a3b224993877e76594e75b, type: 3}
+    - {fileID: 21300000, guid: 85af5dca7be08ae4db7e72010c4b8e57, type: 3}
+    _loop: 1
+    _allowNextClip: 0
+    _onComplete:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!50 &5050271974649087357
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 1
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
+--- !u!58 &1944193866237245191
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.08, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.17093125
+--- !u!114 &5728086972001364258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3d23de19e235c4db4fbeac1e7fe497, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tag: Enemy
+  _layer:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  _action:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7939787631400808896}
+        m_TargetAssemblyTypeName: Crew.Components.Health.ModifyHealthComponent, Assembly-CSharp
+        m_MethodName: ApplyHealth
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 76208797011184871}
+        m_TargetAssemblyTypeName: Crew.Components.GoGameObjects.DestroyObjectComponent,
+          Assembly-CSharp
+        m_MethodName: DestroyObject
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &7939787631400808896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e9770b9ee3d5846a2e354cbd0e429f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hpDelta: -2
+--- !u!114 &76208797011184871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa0500f879b2964092bd2ef9df01ac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _objectToDestroy: {fileID: 841445051977892320}
+  _state: {fileID: 0}
+--- !u!114 &7631236467113914807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3d23de19e235c4db4fbeac1e7fe497, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tag: 
+  _layer:
+    serializedVersion: 2
+    m_Bits: 8
+  _action:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 76208797011184871}
+        m_TargetAssemblyTypeName: Crew.Components.GoGameObjects.DestroyObjectComponent,
+          Assembly-CSharp
+        m_MethodName: DestroyObject
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &2271715839799429957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841445051977892320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d9246505c4aae4c9d88e902a0bf730, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _speed: 0.2
+  _invertX: 0

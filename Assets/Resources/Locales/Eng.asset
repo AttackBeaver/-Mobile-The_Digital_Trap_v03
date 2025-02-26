@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ce08c5fefd86e4b84d37b609e7b56b, type: 3}
+  m_Name: Eng
+  m_EditorClassIdentifier: 
+  _localeItems:
+  - Key: menu_continue
+    Value: "Continue\r"
+  - Key: menu_newgame
+    Value: "New game\r"
+  - Key: menu_settings
+    Value: "Settings\r"
+  - Key: menu_exit
+    Value: "Exit\r"
+  - Key: menu_music
+    Value: "Music:\r"
+  - Key: menu_sfx
+    Value: "Sound effects:\r"
+  - Key: menu_language
+    Value: "Language:\r"
+  - Key: menu_pause
+    Value: "Pause\r"
+  - Key: menu_save
+    Value: "Save\r"
+  - Key: menu_loading
+    Value: "Loading...\r"
+  - Key: menu_cost
+    Value: "Cost:\r"
+  - Key: menu_unlock
+    Value: "Unlocked\r"
+  - Key: menu_save_message
+    Value: "Game saved\r"
+  - Key: dialog_continue
+    Value: "Next...\r"
+  - Key: dialog_demon_1
+    Value: "Your goal here... COME TO ME!!!\r"
+  - Key: dialog_demon_2_1
+    Value: "YOU CAME...\r"
+  - Key: dialog_demon_2_2
+    Value: "I HEAR YOU\r"
+  - Key: dialog_demon_2_3
+    Value: "COME TO ME!!!\r"
+  - Key: dialog_end_1
+    Value: "Oops, looks like you haven't finished this level yet...\r"
+  - Key: dialog_end_2
+    Value: "Don't you want to fix it?\r"
+  - Key: dialog_fisrt_girl_1
+    Value: "Hey... hey you!\r"
+  - Key: dialog_fisrt_girl_2
+    Value: "I see you! Stand where you are!\r"
+  - Key: dialog_fisrt_girl_3
+    Value: "Who are you and how did you get into our game?!\r"
+  - Key: dialog_fisrt_girl_4
+    Value: "Arkasha I... wait... how do you know you're in a game?!\r"
+  - Key: dialog_fisrt_girl_5
+    Value: "Oh Arkasha, so... our clumsy genius\r"
+  - Key: dialog_fisrt_girl_6
+    Value: "Well of course I know where I am, you managed to write me intelligence,
+      unlike everything else...\r"
+  - Key: dialog_fisrt_girl_7
+    Value: "Code pieces are flying around everywhere... half of the world doesn't
+      work... some textures just cover holes...\r"
+  - Key: dialog_fisrt_girl_8
+    Value: "Whether you want it or not, you'll understand where you are!\r"
+  - Key: dialog_fisrt_girl_9
+    Value: "Sorry... probably...\r"
+  - Key: dialog_fisrt_girl_10
+    Value: "Well since you're here, you can fix everything, right?\r"
+  - Key: dialog_fisrt_girl_11
+    Value: "Yeah... but how?\r"
+  - Key: dialog_fisrt_girl_12
+    Value: "Well you already know about the code pieces, and I can help implement
+      it! Do you remember what the next level is?\r"
+  - Key: dialog_fisrt_girl_13
+    Value: "Um... vampire castle?\r"
+  - Key: dialog_fisrt_girl_14
+    Value: "That's right, so to get there, you need to \"unlock\" yourself a double
+      jump.\r"
+  - Key: dialog_fisrt_girl_15
+    Value: "Come on, let's approach, let's apply your \"great\" talent. You did write
+      that in your resume, didn't you?\r"
+  - Key: dialog_fisrt_girl_16
+    Value: "You're talkative for a couple of lines of code... I'm coming, I'm coming.\r"
+  - Key: dialog_fisrt_fragment_1
+    Value: "Congratulations! You found some unreleased code in your project!\r"
+  - Key: dialog_fisrt_fragment_2
+    Value: "By collecting such pieces of code, you comment them inside the game files.\r"
+  - Key: dialog_fisrt_fragment_3
+    Value: "And then miraculously you can use them...\r"
+  - Key: dialog_fisrt_fragment_4
+    Value: "Well you're a programmer!\r"
+  - Key: dialog_fisrt_laptop_1
+    Value: "Parts of the texture are blocking your way, which shouldn't be here...\r"
+  - Key: dialog_fisrt_laptop_2
+    Value: "And look, how convenient, your laptop is here too!\r"
+  - Key: dialog_fisrt_laptop_3
+    Value: "Use the laptop, with the \"U\" key, to remove textures from the road!\r"
+  - Key: dialog_start_1
+    Value: "Welcome, player!\r"
+  - Key: dialog_start_2
+    Value: "You found yourself in the game you created yourself! Or rather, started...\r"
+  - Key: dialog_start_3
+    Value: "Now you're Arkasha, a programmer lost in his own creation!\r"
+  - Key: dialog_start_4
+    Value: "Your task is to find a way out of this pixelated world.\r"
+  - Key: dialog_start_5
+    Value: "Movement: Arrows\r"
+  - Key: dialog_start_6
+    Value: "Jump: Arrow UP\r"
+  - Key: dialog_start_7
+    Value: "Attack: Sword Button\r"
+  - Key: dialog_start_8
+    Value: "Use: Quest Button\r"
+  - Key: dialog_start_9
+    Value: "Pause: Pause Button\r"
+  - Key: dialog_start_10
+    Value: "Be careful: your actions can change the world around you!\r"
+  - Key: dialog_start_11
+    Value: "Good luck on your way to completing your project!\r"
+  - Key: dialog_second_girl_1
+    Value: "Alright, choose your double jump, then we'll talk\r"
+  - Key: dialog_second_girl_2
+    Value: "All done\r"
+  - Key: dialog_second_girl_3
+    Value: "Well done, hero. Next, your path leads through the vampire castle.\r"
+  - Key: dialog_second_girl_4
+    Value: "Somewhere there, in the dungeon, you might find what you're looking for...\r"
+  - Key: dialog_second_girl_5
+    Value: "Ugh, you clearly don't know how to write dialogues\r"
+  - Key: dialog_second_girl_6
+    Value: "Well thank you... What's your name by the way?\r"
+  - Key: dialog_second_girl_7
+    Value: "You should be asking yourself that, you never gave me a name, call me
+      whatever you want\r"
+  - Key: dialog_second_girl_8
+    Value: "Alright, Optimus Prime)\r"
+  - Key: dialog_second_girl_9
+    Value: "*facepalm*\r"
+  - Key: dialog_dog_1_1
+    Value: "Woof!\r"
+  - Key: dialog_dog_1_2
+    Value: "Take the key from the Demon! Woof!\r"
+  - Key: dialog_dog_1_3
+    Value: "The Demon is in the dungeon! Woof!\r"
+  - Key: dialog_dog_1_4
+    Value: "The entrance to the dungeon is somewhere here! WOOF!\r"
+  - Key: dialog_dog_1_5
+    Value: "Well, it seems clear... woof?\r"
+  - Key: door_dialog
+    Value: "Need a key...\r"
+  - Key: dialog_boxy_1
+    Value: "Hello, Arkasha! I will help you finish this level!!!\r"
+  - Key: dialog_boxy_2
+    Value: "Hello, hello. And who are you?\r"
+  - Key: dialog_boxy_3
+    Value: "I'm Boxy! In fact, I'm the game engine controller, and practically -
+      a monitor on legs!\r"
+  - Key: dialog_boxy_4
+    Value: "Okay, got it. So how do I \"fix\" this level?\r"
+  - Key: dialog_boxy_5
+    Value: "Oh, it's simple, use your code fragments! But you'll need quite a lot
+      of them...\r"
+  - Key: dialog_boxy_option_1
+    Value: "Use 100 fragments to \"fix\" the level?\r"
+  - Key: dialog_boxy_option_2
+    Value: "Yes\r"
+  - Key: dialog_boxy_option_3
+    Value: "No\r"
+  - Key: dialog_boxy_option_4
+    Value: "Not enough fragments\r"
+  - Key: dialog_boxy_end_1
+    Value: "Well done, you restored the level!!!\r"
+  - Key: dialog_boxy_end_2
+    Value: "Yeees, I'm awesome...\r"
+  - Key: dialog_boxy_end_3
+    Value: "Now run further, you are on the right track!\r"
+  - Key: dialog_boxy_end_4
+    Value: "You're quite cheerful... okay, see you.\r"
+  - Key: marker_quest_0
+    Value: "A samurai has no goal, only a path...\r"
+  - Key: marker_quest_1
+    Value: "Need to figure out what's going on\r"
+  - Key: marker_quest_2
+    Value: "Talk to a stranger\r"
+  - Key: marker_quest_3
+    Value: "Find the entrance to the castle\r"
+  - Key: marker_quest_4
+    Value: "Find the door key\r"
+  - Key: marker_quest_5
+    Value: "Now you need to open the door\r"
+  - Key: marker_quest_6
+    Value: "Need to move on\r"
+  - Key: marker_quest_7
+    Value: "What an interesting layout...\r"
+  - Key: marker_quest_8
+    Value: "Well, it's already some kind of maze\r"
+  - Key: marker_quest_9
+    Value: "Open the door... door...\r"
+  - Key: marker_quest_10
+    Value: "Puppy!!!\r"
+  - Key: marker_quest_11
+    Value: "Get to the dungeon\r"
+  - Key: marker_quest_12
+    Value: "Someone is roaring horribly from there...\r"
+  - Key: marker_quest_13
+    Value: "Defeat the DEMON!!!\r"
+  - Key: perk_info_1
+    Value: "Now you can double jump! Press Space while jumping to jump higher!\r"
+  - Key: perk_info_2
+    Value: "Harness the power and strength of fire! Press the Fire Button button
+      to release a fireball at the enemy!!! Deals double damage, but once every 5
+      seconds. And it's mana-free!!!\r"
+  - Key: titles
+    Value: 'Developer: Alexander Starikov Used resources: itch.io, craftpix.net,
+      assetstore.unity.com, opengameart.org Thank you for playing! For collaboration
+      inquiries contact tg: @attack_beaver'
+  - Key: advice
+    Value: 'Tip: Don''t forget to save the game in the pause menu!'

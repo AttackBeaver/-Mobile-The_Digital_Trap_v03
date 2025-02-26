@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d564db4f32fea1d4992a42d73542dd61, type: 3}
+  m_Name: Dialog_Dog_1
+  m_EditorClassIdentifier: 
+  _data:
+    _sentences:
+    - _valued: dialog_dog_1_1
+      _icon: {fileID: 21300000, guid: 101a62c4ed36fc5419801019734fa717, type: 3}
+      _side: 1
+    - _valued: dialog_dog_1_2
+      _icon: {fileID: 21300000, guid: 101a62c4ed36fc5419801019734fa717, type: 3}
+      _side: 1
+    - _valued: dialog_dog_1_3
+      _icon: {fileID: 21300000, guid: 101a62c4ed36fc5419801019734fa717, type: 3}
+      _side: 1
+    - _valued: dialog_dog_1_4
+      _icon: {fileID: 21300000, guid: 101a62c4ed36fc5419801019734fa717, type: 3}
+      _side: 1
+    - _valued: dialog_dog_1_5
+      _icon: {fileID: 21300000, guid: 4aec4b4ced6ae534f898e558c0a13a64, type: 3}
+      _side: 0
+    _type: 1
